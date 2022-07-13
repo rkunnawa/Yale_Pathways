@@ -1,6 +1,6 @@
 name: base
 channels:
-  - conda
+  - conda-forge
 dependencies:
   - pythia8
   - pandas
